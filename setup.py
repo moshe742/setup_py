@@ -6,5 +6,6 @@ setup(
     name="HelloWorld",
     version="0.1",
     packages=find_packages(),
-    download_url="URL"
+    url="URL",
+    long_description="this is a demo"
 )
