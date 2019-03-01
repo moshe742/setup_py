@@ -8,7 +8,7 @@ setup(
     packages=find_packages(),
     description="this is a description",
     long_description="this is a very long description in markdown",
-    download_url="URL",
+    url="URL",
     license="GPL",
     test_suite="tests",
     tests_require=["mock"],
