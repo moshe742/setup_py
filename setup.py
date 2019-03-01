@@ -6,6 +6,6 @@ setup(
     name="HelloWorld"
     version="0.1",
     packages=find_packages(),
-    download_url="URL",
+    url="URL",
     python_requires='2.7, >=3.6'
 )
