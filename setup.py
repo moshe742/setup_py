@@ -6,8 +6,7 @@ setup(
     name="HelloWorld"
     version="0.1",
     packages=find_packages(),
-    download_url="URL",
-    license="GPL",
+    url="URL",
     python_requires="2.7, 3.6",
     project_urls={
         "bug tracker": "URL",
