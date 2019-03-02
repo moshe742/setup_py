@@ -7,5 +7,5 @@ setup(
     version="0.1",
     packages=find_packages(),
     url="URL",
-    python_requires='>=3.6.0'
+    python_requires='>3.6.3'
 )
